@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "Điều 1 của Thông tư 67 quy định về phạm vi điều chỉnh như thế nào?",
+    "ground_truth": "Thông tư 67 hướng dẫn chi tiết các điều khoản cụ thể của Luật Kinh doanh bảo hiểm như: khoản 3 Điều 14, khoản 2 Điều 17, khoản 4 Điều 76, khoản 4 Điều 82, khoản 6 Điều 87, khoản 5 Điều 89, khoản 4 Điều 101, khoản 4 Điều 105, khoản 3 Điều 106, khoản 2 Điều 117, khoản 2 Điều 120, điểm c khoản 1 và các điểm đ, k khoản 2 Điều 128, khoản 4 Điều 129, điểm a khoản 1 và điểm c khoản 2 Điều 137, khoản 5 Điều 138, khoản 4 Điều 145; đồng thời hướng dẫn khoản 6 Điều 7, điểm c khoản 2 Điều 32, Điều 44, khoản 7 Điều 49 của Nghị định 46/2023/NĐ-CP, bao gồm biểu mẫu dữ liệu hoạt động kinh doanh bảo hiểm, tài liệu giải trình phí, hướng dẫn lập dự phòng nghiệp vụ và thời điểm ghi nhận doanh thu theo từng loại hình bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 1"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 2,
+    "question": "Ai là đối tượng áp dụng của Thông tư 67 theo Điều 2?",
+    "ground_truth": "Theo Điều 2 Thông tư 67, đối tượng áp dụng bao gồm: doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm, tổ chức/cá nhân cung cấp dịch vụ phụ trợ bảo hiểm, tổ chức tương hỗ bảo hiểm vi mô; chi nhánh doanh nghiệp bảo hiểm và tái bảo hiểm nước ngoài tại Việt Nam; văn phòng đại diện nước ngoài của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm và tập đoàn tài chính, bảo hiểm; bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng; cơ quan quản lý nhà nước về bảo hiểm và các tổ chức, cá nhân liên quan đến hoạt động kinh doanh bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 2"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 3,
+    "question": "Giấy chứng nhận bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng được quy định như thế nào trong Điều 4 của Thông tư 50?",
+    "ground_truth": "Theo Điều 4 Thông tư 50, Giấy chứng nhận bảo hiểm bắt buộc trong đầu tư xây dựng là bằng chứng giao kết hợp đồng bảo hiểm giữa bên mua và doanh nghiệp bảo hiểm. Doanh nghiệp bảo hiểm phải cấp riêng Giấy chứng nhận cho bên mua, bao gồm: tên, địa chỉ các bên và số hotline của doanh nghiệp bảo hiểm; tên, địa điểm công trình; số tiền bảo hiểm; tổng giá trị công trình (nếu có); thông tin hợp đồng tư vấn và giá trị chi tiết (nếu là bảo hiểm trách nhiệm nghề nghiệp); tổng số lao động được bảo hiểm (nếu là bảo hiểm cho người lao động thi công); thời hạn, tỷ lệ, phí bảo hiểm, mức khấu trừ (nếu có); ngày cấp. Nếu là Giấy chứng nhận điện tử thì phải tuân thủ Luật Giao dịch điện tử và phản ánh đầy đủ các nội dung trên.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 4,
+    "question": "Thời hạn bảo hiểm bắt buộc công trình trong thời gian xây dựng được quy định ra sao trong Điều 9 của Thông tư 50?",
+    "ground_truth": "Theo Điều 9 Thông tư 50, thời hạn bảo hiểm công trình trong thời gian xây dựng được xác định theo hợp đồng bảo hiểm, căn cứ văn bản của cơ quan có thẩm quyền về thời gian xây dựng. Với công trình tại điểm a khoản 1 Điều 10, bảo hiểm tính từ ngày bắt đầu đến ngày kết thúc xây dựng, chấm dứt khi bộ phận/hạng mục được bàn giao hoặc sử dụng. Với công trình tại điểm b khoản 1 Điều 10, thời hạn bảo hiểm kéo dài đến khi bàn giao hoặc hoàn tất chạy thử có tải đầu tiên, tùy mốc nào đến trước nhưng không quá 28 ngày từ khi bắt đầu chạy thử; thiết bị đã qua sử dụng sẽ hết hạn bảo hiểm khi bắt đầu chạy thử.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 9"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 5,
+    "question": "Thông tư 67 có hiệu lực từ ngày nào theo Điều 62?",
+    "ground_truth": "Theo Điều 62 Thông tư 67, Thông tư có hiệu lực kể từ ngày ký, nhưng một số điều khoản có hiệu lực từ các mốc khác nhau. Cụ thể: từ ngày 01/01/2023, các quy định tại Điều 20 (một phần), Điều 29 (khoản 1 điểm a, b), các Điều 33, 34, 45–48, 51, khoản 1 Điều 52, Điều 55, Mục 3 và 4 Chương IV có hiệu lực. Từ ngày 01/07/2024, khoản 2 và 3 Điều 29 có hiệu lực. Do không có thông tin về ngày ký nên chưa xác định được ngày hiệu lực chính thức của toàn bộ Thông tư.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 62"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 6,
+    "question": "Số tiền bảo hiểm tối thiểu cho công trình trong thời gian xây dựng được quy định như thế nào trong Điều 7 của Thông tư 50?",
+    "ground_truth": "Theo khoản 2 Điều 7 Thông tư 50, số tiền bảo hiểm tối thiểu cho bảo hiểm bắt buộc công trình trong thời gian xây dựng là giá trị đầy đủ của công trình khi hoàn thành, bao gồm vật liệu, nhân công, thiết bị, vận chuyển, thuế, phí và các hạng mục do chủ đầu tư hoặc nhà thầu cung cấp. Số tiền này không được thấp hơn tổng giá trị hợp đồng xây dựng, kể cả phần điều chỉnh, bổ sung nếu có.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 7"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 7,
+    "question": "Điều 5 của Thông tư 67 quy định hình thức cung cấp dịch vụ bảo hiểm trên môi trường mạng là gì?",
+    "ground_truth": "Theo Điều 5 Thông tư 67, dịch vụ và sản phẩm bảo hiểm trên môi trường mạng được cung cấp qua hai hình thức: (1) Doanh nghiệp bảo hiểm, chi nhánh nước ngoài, tổ chức tương hỗ sử dụng cổng/trang thông tin điện tử, website TMĐT bán hàng hoặc ứng dụng có kết nối mạng do mình thiết lập; (2) Doanh nghiệp môi giới, đại lý bảo hiểm cung cấp qua các nền tảng tương tự, bao gồm cả sàn giao dịch TMĐT và website khác theo quy định Bộ Công Thương. Tên miền phải được đăng ký theo pháp luật hiện hành.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 5"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 8,
+    "question": "Mức khấu trừ bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng được định nghĩa ra sao trong Điều 3 của Thông tư 50?",
+    "ground_truth": "Theo Điều 3 Thông tư 50, mức khấu trừ là số tiền cố định hoặc tỷ lệ % mà bên mua bảo hiểm phải tự chịu trong mỗi sự kiện bảo hiểm. Đối với bảo hiểm công trình trong thời gian xây dựng, mức khấu trừ được quy định tại điểm b khoản 1 Mục I và II Phụ lục I; đối với bảo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng, mức khấu trừ nằm tại điểm b khoản 1 Phụ lục II của Thông tư này.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 3"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 9,
+    "question": "Báo cáo doanh thu phí bảo hiểm theo Thông tư 50 được quy định trong phụ lục nào?",
+    "ground_truth": "Theo khoản 1 Điều 36 Thông tư 50, doanh nghiệp bảo hiểm phải lập và gửi Bộ Tài chính báo cáo nghiệp vụ quý, năm đối với bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng. Mẫu báo cáo doanh thu phí bảo hiểm bắt buộc được quy định tại Phụ lục VI ban hành kèm theo Thông tư này.",
+    "citations": [
+      "Thông tư 50",
+      "Phụ lục VI"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 10,
+    "question": "Quyền và nghĩa vụ của doanh nghiệp bảo hiểm trong hợp đồng bảo hiểm nhân thọ được quy định như thế nào trong Điều 14 của Thông tư 67?",
+    "ground_truth": "Theo Điều 14 Thông tư 67, quyền và nghĩa vụ của doanh nghiệp bảo hiểm, chi nhánh bảo hiểm phi nhân thọ nước ngoài phải phù hợp Điều 20 Luật Kinh doanh bảo hiểm. Với hợp đồng bảo hiểm liên kết đầu tư và bảo hiểm hưu trí, doanh nghiệp bảo hiểm nhân thọ có quyền thu các khoản phí theo hợp đồng; có nghĩa vụ cảnh báo nguy cơ hợp đồng mất hiệu lực nếu tài khoản không đủ phí, tư vấn rủi ro khi chuyển giao hợp đồng, và thông báo bằng văn bản kết quả hoạt động quỹ trong vòng 90 ngày sau khi kết thúc năm tài chính hoặc năm hợp đồng.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 14"
+    ],
+    "question_type": "Factual Lookup"
+  },
+  {
+    "id": 11,
+    "question": "Sự khác biệt giữa quy định về cung cấp dịch vụ bảo hiểm trên môi trường mạng trong Điều 4 của Thông tư 67 và Điều 4 của Thông tư 50 là gì?",
+    "ground_truth": "Theo Điều 4 Thông tư 67, việc cung cấp dịch vụ bảo hiểm trên môi trường mạng có thể thực hiện toàn bộ hoặc một phần quy trình qua internet, mạng di động hoặc mạng mở khác, bao gồm các hoạt động như giới thiệu, tư vấn, chào bán, xác thực, thẩm định, thanh toán, phát hành hợp đồng. Một số sản phẩm được phép thực hiện toàn bộ quy trình online; nếu chỉ thực hiện một phần, tư vấn phải trực tiếp hoặc qua cuộc gọi ghi âm. Trong khi đó, Điều 4 Thông tư 50 chỉ quy định nội dung và hình thức của Giấy chứng nhận bảo hiểm trong đầu tư xây dựng (kể cả điện tử), không điều chỉnh hoạt động cung cấp dịch vụ bảo hiểm trên môi trường mạng như Thông tư 67.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 4",
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 12,
+    "question": "Quy định về chấm dứt hợp đồng bảo hiểm trong Điều 6 của Thông tư 50 khác gì so với quyền và nghĩa vụ của bên mua bảo hiểm trong Điều 13 của Thông tư 67?",
+    "ground_truth": "Điều 6 Thông tư 50 quy định việc chấm dứt hợp đồng bảo hiểm công trình xây dựng trong trường hợp hợp đồng xây dựng bị tạm dừng, chấm dứt hoặc theo quy định pháp luật, kèm theo quy định về hoàn trả phí bảo hiểm hoặc thực hiện theo thỏa thuận. Trong khi đó, Điều 13 Thông tư 67 quy định quyền và nghĩa vụ của bên mua bảo hiểm trong hợp đồng nhân thọ và sức khỏe, như đóng phí linh hoạt, rút tiền, chuyển đổi quỹ, thay đổi số tiền bảo hiểm, và không đề cập đến việc chấm dứt hợp đồng. Hai điều này liên quan đến các loại bảo hiểm và nội dung khác nhau, không thể so sánh trực tiếp.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 6",
+      "Thông tư 67",
+      "Điều 13"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 13,
+    "question": "Thông tư 67 và Thông tư 50 quy định như thế nào về trách nhiệm báo cáo của doanh nghiệp bảo hiểm?",
+    "ground_truth": "Thông tư 50 chỉ quy định trách nhiệm báo cáo liên quan đến bảo hiểm bắt buộc trong đầu tư xây dựng, gồm báo cáo doanh thu và bồi thường theo Phụ lục VI và VII, nhưng không nêu rõ tần suất, thời hạn báo cáo. Thông tư 67 không quy định trách nhiệm báo cáo chung, nhưng yêu cầu doanh nghiệp bảo hiểm nhân thọ báo cáo phân chia thặng dư (Điều 48) và doanh nghiệp phi nhân thọ, sức khỏe, tái bảo hiểm, chi nhánh nước ngoài báo cáo việc tách nguồn vốn định kỳ quý và năm (Điều 42), báo cáo năm phải có xác nhận của kiểm toán độc lập. Hai Thông tư chỉ đề cập trách nhiệm báo cáo ở một số khía cạnh cụ thể.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 42-48",
+      "Thông tư 50",
+      "Phụ lục VI-VIII"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 14,
+    "question": "Phạm vi bảo hiểm bắt buộc công trình trong thời gian xây dựng trong Điều 8 của Thông tư 50 khác gì so với phạm vi điều chỉnh trong Điều 1 của Thông tư 67?",
+    "ground_truth": "Theo Điều 8 Thông tư 50, phạm vi bảo hiểm công trình trong thời gian xây dựng bao gồm bồi thường tổn thất do mọi rủi ro, trừ các trường hợp loại trừ được liệt kê tại khoản 2 (gồm loại trừ chung theo Điều 5 và loại trừ cụ thể như lỗi thiết kế, ăn mòn, mục rữa...). Trong khi đó, Thông tư 67 không quy định phạm vi bảo hiểm cụ thể mà chỉ hướng dẫn về biểu mẫu, phương pháp tính phí, dự phòng nghiệp vụ và các nội dung khác theo Luật Kinh doanh bảo hiểm. Vì vậy, không thể so sánh trực tiếp hai điều khoản này.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 8",
+      "Thông tư 67",
+      "Điều 1"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 15,
+    "question": "Quy định về đối tượng áp dụng trong Điều 2 của Thông tư 67 và Điều 3 của Thông tư 50 có điểm gì tương đồng và khác biệt?",
+    "ground_truth": "Điều 2 Thông tư 67 và Điều 3 Thông tư 50 đều quy định đối tượng áp dụng, nhưng phạm vi khác nhau. Thông tư 67 áp dụng cho nhiều loại hình bảo hiểm và đối tượng rộng như doanh nghiệp bảo hiểm, đại lý, môi giới, người mua, người thụ hưởng, cơ quan quản lý… Trong khi đó, Thông tư 50 chỉ áp dụng cho các chủ thể liên quan đến bảo hiểm bắt buộc trong đầu tư xây dựng như chủ đầu tư, nhà thầu, tư vấn, doanh nghiệp bảo hiểm. Cả hai đều bao gồm tổ chức, cá nhân liên quan, nhưng phạm vi của Thông tư 67 rộng hơn nhiều.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 2",
+      "Thông tư 50",
+      "Điều 3"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 16,
+    "question": "Cách tính phí bảo hiểm trong Thông tư 50 và thời điểm ghi nhận doanh thu trong Thông tư 67 có liên quan như thế nào?",
+    "ground_truth": "Thông tư 50 quy định cách tính phí bảo hiểm bắt buộc trong đầu tư xây dựng, gồm bảo hiểm công trình và bảo hiểm trách nhiệm nghề nghiệp tư vấn. Mức phí phụ thuộc vào loại và giá trị công trình; công trình dưới 1.000 tỷ đồng có tỷ lệ phí cụ thể, còn từ 1.000 tỷ trở lên thì phí và mức khấu trừ do hai bên thỏa thuận (Phụ lục I và II). Thông tư 67 không quy định cụ thể cách tính phí nhưng tại Điều 48 (về bảo hiểm nhân thọ) có nêu việc tính phí dựa trên giả định về rủi ro, lãi suất, chi phí. Không có liên hệ trực tiếp giữa cách tính phí trong Thông tư 50 và các quy định về doanh thu trong Thông tư 67.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 15",
+      "Điều 37",
+      "Thông tư 67",
+      "Điều 48"
+    ],
+    "question_type": "Comparative"
+  },
+  {
+    "id": 17,
+    "question": "Trong trường hợp công trình xây dựng bị tạm dừng thi công, doanh nghiệp bảo hiểm có trách nhiệm gì theo Thông tư 50?",
+    "ground_truth": "Thông tư 50 không quy định rõ trách nhiệm của doanh nghiệp bảo hiểm khi công trình xây dựng bị tạm dừng thi công. Các điều khoản chủ yếu tập trung vào phạm vi bảo hiểm, loại trừ trách nhiệm, nguyên tắc bồi thường trong các trường hợp tai nạn lao động, bệnh nghề nghiệp hoặc sự cố công trình, nhưng không đề cập đến tình huống tạm dừng thi công.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 26"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 18,
+    "question": "Các tổ chức bảo hiểm khác nhau được phép cung cấp dịch vụ bảo hiểm qua môi trường mạng theo những hình thức nào, và có yêu cầu gì về tên miền, loại website được sử dụng?",
+    "ground_truth": "Theo Thông tư 67, doanh nghiệp bảo hiểm, chi nhánh nước ngoài và tổ chức tương hỗ được cung cấp dịch vụ bảo hiểm qua cổng thông tin, website bán hàng hoặc ứng dụng điện tử. Doanh nghiệp môi giới và đại lý bảo hiểm cũng có thể sử dụng thêm website cung cấp dịch vụ TMĐT, bao gồm sàn giao dịch và website khác do Bộ Công Thương quy định. Tên miền phải được đăng ký theo pháp luật, nhưng không có yêu cầu kỹ thuật cụ thể được nêu.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 5"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 19,
+    "question": "Trong trường hợp xảy ra sự cố công trình xây dựng thuộc phạm vi bảo hiểm bắt buộc, bên mua bảo hiểm và doanh nghiệp bảo hiểm có những trách nhiệm gì theo quy định, và nguyên tắc bồi thường được xác định như thế nào khi có tổn thất vật chất hoặc có nhiều doanh nghiệp cùng tham gia bảo hiểm?",
+    "ground_truth": "Theo Điều 12 Thông tư 50, khi xảy ra sự cố công trình, bên mua bảo hiểm phải thông báo sớm, bảo quản hiện trường, hạn chế tổn thất và phối hợp cung cấp tài liệu. Doanh nghiệp bảo hiểm phải giám định, hướng dẫn thu thập hồ sơ và thông báo kết quả bồi thường. Chỉ bồi thường thiệt hại vật chất thực tế, không vượt quá số tiền bảo hiểm. Nếu nhiều doanh nghiệp cùng bảo hiểm một đối tượng, trách nhiệm chia theo tỷ lệ số tiền đã thỏa thuận, tổng bồi thường không vượt quá thiệt hại thực tế.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 12"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 20,
+    "question": "Trong cung cấp bảo hiểm vi mô qua môi trường mạng, tổ chức được phép thực hiện những hoạt động nào trực tuyến và có trách nhiệm gì với cơ quan quản lý?",
+    "ground_truth": "Theo Thông tư 67, tổ chức được phép thực hiện toàn bộ hoặc một phần quy trình cung cấp bảo hiểm vi mô trên môi trường mạng, bao gồm: giới thiệu, tư vấn, xác thực, thẩm định, giao kết, thanh toán và phát hành hợp đồng. Bảo hiểm vi mô có thể thực hiện toàn bộ quy trình nếu không yêu cầu thẩm định rủi ro trực tiếp. Việc cung cấp được thực hiện qua website, cổng thông tin hoặc ứng dụng điện tử..",
+    "citations": [
+      "Thông tư 67",
+      "Điều 4-7"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 21,
+    "question": "Mức bồi thường tổn thương thị giác được xác định ra sao, và khi nào có thể thỏa thuận mà vẫn phải tuân theo mức trần pháp luật quy định?",
+    "ground_truth": "Mức bồi thường tổn thương thị giác theo Thông tư 50 được xác định dựa trên tỷ lệ tổn thương quy định tại Phụ lục V, tính theo công thức: tỷ lệ tổn thương × mức trách nhiệm bảo hiểm. Các bên có thể thỏa thuận mức bồi thường, nhưng không được vượt quá mức tối đa quy định trong Phụ lục này. Thỏa thuận có thể thực hiện với người bị thiệt hại, người thừa kế hoặc đại diện hợp pháp nếu người bị thiệt hại mất năng lực hành vi hoặc chưa đủ 6 tuổi.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 3"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 22,
+    "question": "Giấy chứng nhận bảo hiểm trong hoạt động đầu tư xây dựng phải đáp ứng những yêu cầu nội dung nào và có gì khác biệt khi được cấp dưới dạng điện tử?",
+    "ground_truth": "Giấy chứng nhận bảo hiểm trong đầu tư xây dựng phải thể hiện đầy đủ thông tin về các bên tham gia, công trình, nội dung bảo hiểm, điều khoản hợp đồng và ngày cấp. Nếu cấp dưới dạng điện tử, doanh nghiệp bảo hiểm phải tuân thủ Luật Giao dịch điện tử và bảo đảm giấy chứng nhận phản ánh đầy đủ các nội dung như bản giấy, dù tài liệu không nêu rõ chi tiết kỹ thuật của quy định này.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Complex"
+  },
+  {
+    "id": 23,
+    "question": "Quy định về bảo hiểm cho công trình xây dựng vượt biên giới Việt Nam được nêu trong Thông tư nào?",
+    "ground_truth": "Không có thông tin liên quan được tìm thấy trong các tài liệu được cung cấp.",
+    "citations": [
+      "Không có"
+    ],
+    "question_type": "Edge Case"
+  },
+  {
+    "id": 24,
+    "question": "Có quy định nào liên quan đến việc mua bảo hiểm cho xe máy điện trong hệ thống pháp luật hiện hành không?",
+    "ground_truth": "Không có thông tin liên quan được tìm thấy trong các tài liệu được cung cấp.",
+    "citations": [
+      "Không có"
+    ],
+    "question_type": "Edge Case"
+  },
+  {
+    "id": 25,
+    "question": "Làm thế nào Thông tư 50 bổ sung cho Thông tư 67 về bảo hiểm xây dựng?",
+    "ground_truth": "Không có thông tin liên quan được tìm thấy trong các tài liệu được cung cấp.",
+    "citations": [
+      "Không có"
+    ],
+    "question_type": "Edge Case"
+  },
+  {
+    "id": 26,
+    "question": "điều 8 tt50 nói j về phạm vi bảo hiểm?",
+    "ground_truth": "Theo Điều 8 Thông tư 50, bảo hiểm bắt buộc công trình trong thời gian xây dựng bao gồm bồi thường cho tổn thất phát sinh từ mọi rủi ro, trừ các trường hợp loại trừ. Các loại trừ bao gồm: loại trừ chung (theo Điều 5), lỗi thiết kế, ăn mòn, mài mòn, oxy hóa, mục rữa, han gỉ, đóng cặn, chi phí sửa lỗi vật liệu hoặc tay nghề, và thiệt hại chỉ phát hiện khi kiểm kê. Một số loại trừ chỉ áp dụng với từng loại công trình theo Điều 10.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 8"
+    ],
+    "question_type": "Format Variation"
+  },
+  {
+    "id": 27,
+    "question": "tt67 co quy dinh gi ve bao hiem tren moi truong mang?",
+    "ground_truth": "Theo Điều 7 Thông tư 67, tổ chức cung cấp bảo hiểm trên môi trường mạng phải tuân thủ yêu cầu về dịch vụ, kỹ thuật, bảo mật và lưu trữ dữ liệu theo quy định pháp luật về giao dịch điện tử, an toàn thông tin và an ninh mạng. Yêu cầu gồm: xây dựng quy chế hoạt động, công khai minh bạch dịch vụ, xác thực theo pháp luật, quy định rõ hình thức giao dịch và rủi ro trong hợp đồng (từ 01/01/2024), lưu trữ dữ liệu đúng quy định và xác định cấp độ bảo mật hệ thống. Thông tư không quy định chi tiết về từng loại hình bảo hiểm trực tuyến.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 7"
+    ],
+    "question_type": "Format Variation"
+  }
+]
