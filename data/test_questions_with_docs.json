@@ -1,0 +1,1138 @@
+[
+  {
+    "id": 1,
+    "question": "Quy định phương pháp trích lập dự phòng toán học đối với hợp đồng bảo hiểm tử kỳ có thời hạn trên 05 năm như thế nào?",
+    "ground_truth": "Doanh nghiệp bảo hiểm có thể chọn phương pháp trích lập dự phòng như phí bảo hiểm gộp, phí bảo hiểm thuần, hoặc điều chỉnh Zillmer. Đối với hợp đồng trên 05 năm, áp dụng phương pháp phí bảo hiểm thuần điều chỉnh FPT 12 tháng. Cơ sở trích lập gồm bảng tỷ lệ tử vong CSO 1980 và lãi suất kỹ thuật không vượt quá 80% lãi suất trái phiếu Chính phủ 10 năm. Dự phòng toán học sẽ là 0 nếu kết quả tính toán âm.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 41",
+      "Thông tư 67",
+      "Điều 38"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_41",
+      "TT_67",
+      "Dieu_38"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ai là đối tượng áp dụng của Thông tư 67 theo Điều 2?",
+    "ground_truth": "Đối tượng áp dụng bao gồm: doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm, tổ chức/cá nhân cung cấp dịch vụ phụ trợ bảo hiểm, tổ chức tương hỗ bảo hiểm vi mô; chi nhánh doanh nghiệp bảo hiểm và tái bảo hiểm nước ngoài tại Việt Nam; văn phòng đại diện nước ngoài của doanh nghiệp bảo hiểm, tái bảo hiểm, môi giới bảo hiểm và tập đoàn tài chính, bảo hiểm; bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng; cơ quan quản lý nhà nước về bảo hiểm và các tổ chức, cá nhân liên quan đến hoạt động kinh doanh bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 2"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_2"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quy định tài liệu tóm tắt quy tắc, điều kiện, điều khoản bảo hiểm nhân thọ và bảo hiểm sức khỏe cần bao gồm những nội dung tối thiểu nào?",
+    "ground_truth": "Tài liệu tóm tắt phải bao gồm các quyền lợi và điều kiện nhận quyền lợi, điều khoản loại trừ trách nhiệm bảo hiểm, thời hạn hợp đồng và đóng phí, nghĩa vụ kê khai thông tin trung thực và hậu quả pháp lý, thời gian cân nhắc tham gia bảo hiểm, thông tin về phí (đối với sản phẩm liên kết đầu tư, bảo hiểm hưu trí), quyền lợi đầu tư và rủi ro, quyền lợi khi chấm dứt hợp đồng trước hạn, hướng dẫn truy cập hợp đồng trên môi trường mạng (nếu có), và các điểm lưu ý khác trong quy tắc bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 28"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_28"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Giấy chứng nhận bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng được quy định như thế nào?",
+    "ground_truth": "Giấy chứng nhận bảo hiểm là bằng chứng hợp đồng bảo hiểm bắt buộc giữa bên mua và doanh nghiệp bảo hiểm. Nó phải gồm tên các bên, thông tin công trình, số tiền bảo hiểm, giá trị công trình (nếu có), số lao động bảo hiểm, thời hạn và phí bảo hiểm. Giấy chứng nhận điện tử phải tuân thủ Luật Giao dịch điện tử.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_4"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Thời hạn bảo hiểm bắt buộc công trình trong thời gian xây dựng được quy định ra sao?",
+    "ground_truth": "Thời hạn bảo hiểm công trình được ghi trong hợp đồng, tính từ ngày bắt đầu đến ngày kết thúc thời gian xây dựng, căn cứ vào quyết định đầu tư. Đối với công trình đã bàn giao hoặc đưa vào sử dụng, bảo hiểm chấm dứt khi đó. Đối với công trình quy định tại điểm b Điều 10, bảo hiểm kéo dài đến khi bàn giao hoặc sau lần chạy thử có tải đầu tiên, nhưng không quá 28 ngày từ khi bắt đầu chạy thử. Bảo hiểm đối với thiết bị đã qua sử dụng chấm dứt khi bắt đầu chạy thử.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 9",
+      "Điều 10"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_9",
+      "Dieu_10"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Chuyên gia tính toán của doanh nghiệp bảo hiểm nhân thọ cần có tối thiểu bao nhiêu năm kinh nghiệm làm việc về tính toán trong lĩnh vực bảo hiểm nhân thọ?",
+    "ground_truth": "Chuyên gia tính toán của doanh nghiệp bảo hiểm nhân thọ cần được đào tạo và có kinh nghiệm làm việc tối thiểu 10 năm về tính toán trong lĩnh vực bảo hiểm nhân thọ, bảo hiểm sức khỏe.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 29"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_29"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Trong trường hợp công trình xây dựng bị tạm dừng thi công, doanh nghiệp bảo hiểm có trách nhiệm gì?",
+    "ground_truth": "Khi công trình bị tạm dừng thi công, doanh nghiệp bảo hiểm phải chấm dứt hợp đồng nếu có thỏa thuận về việc này, với yêu cầu bên mua bảo hiểm thông báo trong 5 ngày. Doanh nghiệp bảo hiểm phải hoàn lại phí bảo hiểm trong vòng 15 ngày, sau khi trừ chi phí hợp lý. Nếu bên mua bảo hiểm chưa đóng đủ phí, họ phải đóng bổ sung. Doanh nghiệp bảo hiểm không chịu trách nhiệm bồi thường cho tổn thất phát sinh do ngừng thi công.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 6",
+      "Điều 5"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_6",
+      "Dieu_5"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Các tổ chức bảo hiểm khác nhau được phép cung cấp dịch vụ bảo hiểm qua môi trường mạng theo những hình thức nào, và có yêu cầu gì về tên miền, loại website được sử dụng?",
+    "ground_truth": "Tổ chức bảo hiểm có thể cung cấp dịch vụ bảo hiểm qua cổng/trang thông tin điện tử, website thương mại điện tử, ứng dụng trên thiết bị điện tử có nối mạng. Các doanh nghiệp bảo hiểm, chi nhánh bảo hiểm phi nhân thọ nước ngoài, và tổ chức bảo hiểm vi mô có thể tự chọn hình thức cung cấp dịch vụ, trong khi đại lý bảo hiểm chỉ cung cấp dịch vụ trong phạm vi hợp đồng đại lý. Tên miền phải được đăng ký hợp pháp và trang thông tin điện tử phải xác thực theo quy định về giao dịch điện tử.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 5"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_5"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Những tiêu chuẩn nào áp dụng cho việc nộp và bổ sung hồ sơ, tài liệu đối với doanh nghiệp bảo hiểm, tái bảo hiểm và chi nhánh?",
+    "ground_truth": "Các yêu cầu bao gồm: nộp 02 bộ hồ sơ (01 bản chính, 01 bản sao), hợp pháp hóa tài liệu nước ngoài, cung cấp bản sao/bản dịch công chứng, đảm bảo hiệu lực của giấy tờ cá nhân, trách nhiệm của bên lập hồ sơ, và sử dụng dữ liệu từ cơ sở dữ liệu quốc gia về dân cư.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 15"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_15"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Trong trường hợp xảy ra sự cố công trình xây dựng thuộc phạm vi bảo hiểm bắt buộc, bên mua bảo hiểm và doanh nghiệp bảo hiểm có những trách nhiệm gì theo quy định, và nguyên tắc bồi thường được xác định như thế nào khi có tổn thất vật chất hoặc có nhiều doanh nghiệp cùng tham gia bảo hiểm?",
+    "ground_truth": "Bên mua bảo hiểm phải thông báo ngay sự cố, bảo quản tài sản tổn thất, và thực hiện các biện pháp hạn chế tổn thất. Doanh nghiệp bảo hiểm thực hiện giám định tổn thất và thông báo kết quả bồi thường. Nguyên tắc bồi thường bao gồm chi trả thiệt hại vật chất thực tế, không vượt quá số tiền bảo hiểm, và không bồi thường cho chi phí cải hoán hay hành vi gian lận. Nếu có nhiều doanh nghiệp bảo hiểm, mỗi doanh nghiệp sẽ bồi thường theo tỷ lệ số tiền bảo hiểm đã thỏa thuận.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 12"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_12"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Những quy định nào áp dụng cho việc mở, chấm dứt hoặc thay đổi địa điểm chi nhánh, văn phòng đại diện của doanh nghiệp bảo hiểm, tái bảo hiểm?",
+    "ground_truth": "Doanh nghiệp phải thông báo bằng văn bản đến Bộ Tài chính trong vòng 15 ngày kể từ khi có quyết định, kèm theo hồ sơ gồm: văn bản phê duyệt, phương án xử lý (nếu chấm dứt), và giấy tờ chứng minh địa điểm (nếu mở/thay đổi). Bộ Tài chính sẽ phản hồi trong vòng 7 ngày làm việc sau khi nhận đủ hồ sơ hợp lệ.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 25"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_25"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Phạm vi bảo hiểm và các trường hợp loại trừ trách nhiệm bảo hiểm đối với bảo hiểm bắt buộc công trình xây dựng được quy định như thế nào?",
+    "ground_truth": "Bảo hiểm này chi trả cho mọi tổn thất phát sinh trong quá trình thi công, trừ các trường hợp: lỗi thiết kế của nhà thầu, hư hỏng do ăn mòn/mài mòn/oxy hóa, hiện tượng mục rữa hay kết tạo vẩy cứng trong điều kiện bình thường, chi phí sửa chữa khuyết tật vật liệu hoặc lỗi thi công (chỉ tính với hạng mục trực tiếp bị ảnh hưởng), cùng các tổn thất chỉ phát hiện khi kiểm kê.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 8"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_8"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Giấy chứng nhận bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng có những quy định gì?",
+    "ground_truth": "Giấy chứng nhận bảo hiểm là bằng chứng giao kết hợp đồng giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm. Doanh nghiệp bảo hiểm phải cấp riêng giấy chứng nhận, bao gồm đầy đủ thông tin như tên các bên, địa chỉ công trình, số tiền bảo hiểm, thời hạn và phí bảo hiểm. Trường hợp cấp giấy chứng nhận điện tử phải tuân thủ Luật Giao dịch điện tử và đảm bảo đầy đủ nội dung theo quy định.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_4"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Các trường hợp chấm dứt hợp đồng bảo hiểm xây dựng và hậu quả pháp lý được quy định như thế nào?",
+    "ground_truth": "Hợp đồng bảo hiểm xây dựng chấm dứt trong ba trường hợp chính: (1) Khi có thỏa thuận giữa hai bên về việc chấm dứt do tạm dừng hoặc kết thúc hợp đồng xây dựng, bên mua phải thông báo trong vòng 5 ngày làm việc; (2) Theo các quy định pháp luật khác; (3) Khi một bên đơn phương chấm dứt do vi phạm nghĩa vụ như không đóng phí, không chấp nhận điều chỉnh rủi ro, hoặc không đảm bảo an toàn công trình.Về hậu quả pháp lý: Nếu chấm dứt theo thỏa thuận, doanh nghiệp bảo hiểm phải hoàn trả phí còn lại trong vòng 15 ngày sau khi trừ chi phí hợp lý, đồng thời bên mua phải bổ sung phí nếu chưa đóng đủ. Đối với các trường hợp chấm dứt khác, hậu quả sẽ áp dụng theo thỏa thuận hợp đồng và quy định pháp luật hiện hành.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 6"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_6"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Thời hạn bảo hiểm bắt buộc công trình xây dựng được quy định thế nào?",
+    "ground_truth": "Thời hạn bảo hiểm được xác định từ ngày khởi công đến ngày hoàn thành công trình theo quyết định đầu tư. Với công trình xây dựng mới, bảo hiểm chấm dứt khi bộ phận/hạng mục được bàn giao hoặc đưa vào sử dụng. Với công trình lắp đặt thiết bị, thời hạn kết thúc khi bàn giao hoặc sau 28 ngày chạy thử (tùy điều kiện nào đến trước), đồng thời bảo hiểm cho thiết bị cũ sẽ chấm dứt ngay khi bắt đầu chạy thử.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 9",
+      "Điều 10"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_9",
+      "Dieu_10"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Các quy định về thông báo hoạt động trên môi trường mạng và văn phòng đại diện trong Thông tư 67 gồm những nội dung gì?",
+    "ground_truth": "Doanh nghiệp bảo hiểm phải thông báo cho Bộ Tài chính trong vòng 7 ngày làm việc khi triển khai dịch vụ trực tuyến và báo cáo các dịch vụ hiện có trong 90 ngày. Đối với văn phòng đại diện, cần công bố thông tin trên báo chí trong 30 ngày sau khi được cấp phép và thông báo kịp thời mọi thay đổi về nhân sự hoặc địa điểm trong vòng 30 ngày.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 6"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_6"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Các trách nhiệm của doanh nghiệp bảo hiểm khi cung cấp dịch vụ trực tuyến được quy định như thế nào?",
+    "ground_truth": "Doanh nghiệp bảo hiểm phải thông báo đầy đủ thông tin cho Bộ Tài chính theo quy định, bao gồm báo cáo định kỳ về hoạt động kinh doanh trực tuyến. Cần công khai rõ ràng trên website các thông tin về sản phẩm, quy trình dịch vụ, chính sách bảo mật và giải quyết tranh chấp. Doanh nghiệp phải đảm bảo đủ năng lực hạ tầng kỹ thuật và nhân sự, tuân thủ các quy định pháp luật về bảo hiểm và giao dịch điện tử. Khi thuê hạ tầng công nghệ, phải có hợp đồng rõ ràng và đảm bảo tuân thủ pháp luật.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 8"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_8"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Những đối tượng nào thuộc phạm vi áp dụng của Thông tư 67?",
+    "ground_truth": "Thông tư áp dụng cho các doanh nghiệp bảo hiểm (bao gồm cả phi nhân thọ, nhân thọ, tái bảo hiểm), đại lý và môi giới bảo hiểm, tổ chức cung cấp dịch vụ phụ trợ, chi nhánh/văn phòng đại diện nước ngoài tại Việt Nam, cùng các bên liên quan như người mua bảo hiểm, cơ quan quản lý và tổ chức cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 2"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_2"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Thông tư 67 có hiệu lực thi hành như thế nào?",
+    "ground_truth": "Thông tư 67 có hiệu lực từ ngày ký, trong đó phần lớn quy định áp dụng từ ngày 01/01/2023, bao gồm các nội dung về quản lý hoạt động kinh doanh bảo hiểm, báo cáo và giám sát. Các quy định về tài liệu minh họa sản phẩm bảo hiểm liên kết chung, liên kết đơn vị và bảo hiểm hưu trí sẽ áp dụng từ ngày 01/07/2024. Thông tư này thay thế 8 văn bản trước đó và yêu cầu tuân thủ theo các văn bản pháp luật mới nhất nếu có thay đổi.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 62"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_62"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Quy định về thưởng và hỗ trợ cho đại lý bảo hiểm như thế nào?",
+    "ground_truth": "Các khoản thưởng và hỗ trợ cho đại lý bảo hiểm phải tuân theo mức giới hạn cụ thể. Đối với bảo hiểm sức khỏe, tổng chi không vượt quá 100% hoa hồng đại lý, trong khi bảo hiểm phi nhân thọ giới hạn ở 50%. Với bảo hiểm nhân thọ, đại lý mới được hưởng tối đa 20% phí bảo hiểm từ hợp đồng ngắn hạn và 30% từ hợp đồng dài hạn, còn đại lý tái tục được tối đa 7% phí tái tục. Các doanh nghiệp đang áp dụng mức cao hơn phải điều chỉnh phù hợp trước ngày 31/12/2025.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 52"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_52"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Các yêu cầu kỹ thuật và bảo mật khi cung cấp dịch vụ bảo hiểm trực tuyến là gì?",
+    "ground_truth": "Các tổ chức cung cấp dịch vụ bảo hiểm trực tuyến phải: (1) tuân thủ nghiêm ngặt quy định về giao dịch điện tử, an ninh mạng; (2) xây dựng quy chế hoạt động chi tiết bao gồm quy trình giao dịch, kiểm soát rủi ro, chính sách bảo mật và cơ chế giải quyết tranh chấp; (3) đảm bảo hệ thống công nghệ thông tin đáp ứng yêu cầu bảo mật, có giải pháp dự phòng; (4) công khai minh bạch thông tin dịch vụ trên website chính thức; (5) quy định rõ điều khoản hợp đồng điện tử về trách nhiệm các bên; và (6) tuân thủ quy định lưu trữ dữ liệu.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 7"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_7"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Các hình thức cung cấp dịch vụ bảo hiểm trực tuyến được phép theo quy định?",
+    "ground_truth": "Dịch vụ bảo hiểm trực tuyến có thể được cung cấp qua các kênh: website chính thức, trang thương mại điện tử hoặc ứng dụng di động do doanh nghiệp bảo hiểm, môi giới bảo hiểm hoặc đại lý bảo hiểm thiết lập. Các sàn giao dịch thương mại điện tử và nền tảng trực tuyến khác theo quy định của Bộ Công Thương cũng được phép sử dụng để phân phối sản phẩm bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 5"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_5"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Yêu cầu về bản yêu cầu bảo hiểm và các bảng câu hỏi liên quan đối với sản phẩm bảo hiểm nhân thọ, sức khỏe?",
+    "ground_truth": "Bản yêu cầu bảo hiểm phải có xác nhận của khách hàng về việc đã hiểu rõ quyền lợi và đặc điểm sản phẩm, với trường hợp mua qua ngân hàng cần thêm xác nhận về tính tự nguyện. Các bảng câu hỏi bao gồm bảng kê khai sức khỏe giới hạn thông tin trong 3 năm (trừ trường hợp đặc biệt), bảng đánh giá khả năng tài chính yêu cầu thông tin về thu nhập và khả năng chi trả, cùng bảng đánh giá mức độ chấp nhận rủi ro đầu tư phân loại theo 5 mức độ từ thận trọng đến mạo hiểm. Doanh nghiệp bảo hiểm phải kiểm tra tính chính xác của thông tin trước khi phát hành hợp đồng và điều chỉnh nội dung tư vấn khi cần. Tất cả quy định này sẽ chính thức áp dụng từ ngày 01/7/2024.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 30"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_30"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Nội dung bắt buộc trong tài liệu tóm tắt điều khoản bảo hiểm nhân thọ và sức khỏe bao gồm những gì?",
+    "ground_truth": "Tài liệu tóm tắt phải trình bày đầy đủ các nội dung chính: quyền lợi bảo hiểm và điều kiện áp dụng, các trường hợp loại trừ trách nhiệm, thời hạn hợp đồng và đóng phí, nghĩa vụ kê khai thông tin trung thực cùng hậu quả vi phạm. Đối với hợp đồng dài hạn trên 1 năm, cần nêu rõ thời gian cân nhắc và các thông tin về phí. Với sản phẩm liên kết đầu tư phải mô tả rõ quyền lợi đầu tư và rủi ro tiềm ẩn. Tài liệu cũng phải đề cập đến quyền lợi khi chấm dứt hợp đồng sớm, cách thức truy cập hợp đồng điện tử (nếu có) cùng các điểm lưu ý đặc biệt khác.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 28"
+    ],
+    "question_type": "Factual",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_28"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Trong quá trình giao kết và thực hiện hợp đồng bảo hiểm, nguyên tắc trung thực tuyệt đối được các bên tham gia tuân thủ như thế nào theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Các bên tham gia hợp đồng bảo hiểm phải cung cấp thông tin một cách trung thực, dựa trên tin tưởng tuyệt đối. Bên mua bảo hiểm phải kê khai đầy đủ thông tin theo yêu cầu của doanh nghiệp bảo hiểm. Các bên liên quan, bao gồm doanh nghiệp bảo hiểm và đại lý bảo hiểm, phải tham gia phòng, chống gian lận bảo hiểm và cung cấp thông tin chính xác về sản phẩm bảo hiểm cho bên mua bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 16",
+      "Điều 21",
+      "Điều 123",
+      "Điều 129"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_16",
+      "Dieu_21",
+      "Dieu_123",
+      "Dieu_129"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Khi mức độ rủi ro được bảo hiểm giảm đi do thay đổi các yếu tố tính phí, bên mua bảo hiểm có những quyền yêu cầu nào đối với doanh nghiệp bảo hiểm theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Khi rủi ro giảm, bên mua bảo hiểm có quyền yêu cầu giảm phí, tăng số tiền bảo hiểm, kéo dài thời hạn bảo hiểm, hoặc mở rộng phạm vi bảo hiểm, căn cứ theo thỏa thuận trong hợp đồng. Nếu doanh nghiệp bảo hiểm không chấp nhận, bên mua có quyền chấm dứt hợp đồng và phải thông báo bằng văn bản.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 23",
+      "Điều 26"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_23",
+      "Dieu_26"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Khi mức độ rủi ro được bảo hiểm giảm đi do thay đổi các yếu tố tính phí, bên mua bảo hiểm có những quyền yêu cầu nào đối với doanh nghiệp bảo hiểm theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Khi rủi ro giảm, bên mua bảo hiểm có quyền yêu cầu giảm phí, tăng số tiền bảo hiểm, kéo dài thời hạn bảo hiểm, hoặc mở rộng phạm vi bảo hiểm, căn cứ theo thỏa thuận trong hợp đồng. Nếu doanh nghiệp bảo hiểm không chấp nhận, bên mua có quyền chấm dứt hợp đồng và phải thông báo bằng văn bản.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 23",
+      "Điều 26"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_23",
+      "Dieu_26"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Trong những trường hợp nào thì việc chuyển giao toàn bộ danh mục hợp đồng bảo hiểm giữa các doanh nghiệp bảo hiểm được thực hiện theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Chuyển giao danh mục hợp đồng bảo hiểm được thực hiện khi Bộ Tài chính yêu cầu, khi thu hẹp phạm vi hoạt động, khi chia, tách, sáp nhập, hợp nhất, giải thể hoặc chấm dứt hoạt động, và trong các trường hợp quy định tại Điều 75 của Luật.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 91",
+      "Điều 75"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_91",
+      "Dieu_75"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Nếu muốn mở một doanh nghiệp môi giới bảo hiểm thì vốn điều lệ là bao nhiêu?",
+    "ground_truth": "Vốn điều lệ tối thiểu để mở công ty môi giới bảo hiểm là 5 tỷ đồng cho loại hình môi giới bảo hiểm gốc hoặc tái bảo hiểm, và 10 tỷ đồng nếu kinh doanh cả hai. Doanh nghiệp phải duy trì đủ vốn chủ sở hữu theo quy định. Các công ty thành lập trước năm 2023 có lộ trình điều chỉnh vốn đến năm 2028, trong khi công ty thành lập từ 2023 phải đáp ứng mức vốn tối thiểu ngay từ đầu.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 81"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_81"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, những loại hợp đồng bảo hiểm nào được xếp vào loại hình bảo hiểm phi nhân thọ?",
+    "ground_truth": "Các loại hợp đồng bảo hiểm phi nhân thọ bao gồm: bảo hiểm tài sản, bảo hiểm thiệt hại và bảo hiểm trách nhiệm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 15"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_15"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Trong quá trình giao kết và thực hiện hợp đồng bảo hiểm, nguyên tắc trung thực tuyệt đối được các bên tham gia tuân thủ như thế nào theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Nguyên tắc trung thực tuyệt đối: các bên tham gia hợp đồng bảo hiểm phải cung cấp thông tin, thực hiện các quyền và nghĩa vụ một cách trung thực nhất, trên cơ sở tin tưởng tuyệt đối lẫn nhau trong quá trình giao kết và thực hiện hợp đồng bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 16"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_16"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Luật Kinh doanh bảo hiểm quy định bên mua bảo hiểm có quyền gì khi doanh nghiệp bảo hiểm cố ý không cung cấp thông tin chính xác trong quá trình giao kết hợp đồng?",
+    "ground_truth": "Trường hợp doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm thì bên mua bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm, được hoàn lại phí bảo hiểm đã đóng. Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm (nếu có).",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 22"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_22"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có nghĩa vụ bảo mật thông tin của bên mua bảo hiểm trong những trường hợp nào?",
+    "ground_truth": "Bảo mật thông tin do bên mua bảo hiểm, người được bảo hiểm cung cấp, trừ trường hợp theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc được sự đồng ý của bên mua bảo hiểm, người được bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 20"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_20"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Khi mức độ rủi ro được bảo hiểm giảm đi do thay đổi các yếu tố tính phí, bên mua bảo hiểm có những quyền yêu cầu nào đối với doanh nghiệp bảo hiểm theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận trong hợp đồng bảo hiểm, bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thực hiện một trong các nội dung sau đây: a) Giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; b) Tăng số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; c) Kéo dài thời hạn bảo hiểm; d) Mở rộng phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 23"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_23"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Luật Kinh doanh bảo hiểm quy định giới hạn trách nhiệm bảo hiểm của doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được xác định như thế nào trong trường hợp bồi thường cho người thứ ba?",
+    "ground_truth": "Trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài phải trả cho người được bảo hiểm những khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba. Tổng số tiền bồi thường của doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài quy định tại khoản 2 và khoản 3 Điều này không vượt quá giới hạn trách nhiệm bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 59"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_59"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Trong trường hợp người được bảo hiểm phải đóng tiền bảo lãnh để tránh việc khởi kiện, doanh nghiệp bảo hiểm có trách nhiệm gì theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Trường hợp người được bảo hiểm phải đóng tiền bảo lãnh hoặc ký quỹ để bảo đảm cho tài sản không bị lưu giữ hoặc để tránh việc khởi kiện tại tòa án thì theo yêu cầu của người được bảo hiểm và thỏa thuận trong hợp đồng bảo hiểm, doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài phải thực hiện việc bảo lãnh hoặc ký quỹ trong phạm vi giới hạn trách nhiệm bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 59"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_59"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Một tổ chức kinh tế thành lập theo pháp luật Việt Nam cần đáp ứng điều kiện gì về tổng tài sản để trở thành thành viên góp vốn thành lập doanh nghiệp bảo hiểm trách nhiệm hữu hạn theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Điều kiện đối với tổ chức kinh tế thành lập theo quy định của pháp luật Việt Nam: có tổng tài sản không thấp hơn 2.000 tỷ Đồng Việt Nam vào năm liền kề trước năm nộp hồ sơ đề nghị cấp giấy phép.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 65"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_65"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Theo Luật Kinh doanh bảo hiểm, nhà đầu tư nước ngoài được phép sở hữu tỷ lệ vốn điều lệ tối đa là bao nhiêu trong một doanh nghiệp bảo hiểm hoặc tái bảo hiểm tại Việt Nam?",
+    "ground_truth": "Nhà đầu tư nước ngoài được sở hữu cổ phần, phần vốn góp đến 100% vốn điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 68"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_68"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Hồ sơ đề nghị cấp giấy phép thành lập và hoạt động của một doanh nghiệp bảo hiểm theo Luật Kinh doanh bảo hiểm cần bao gồm những tài liệu cơ bản nào?",
+    "ground_truth": "Hồ sơ đề nghị cấp giấy phép thành lập và hoạt động bao gồm: 1. Văn bản đề nghị cấp giấy phép thành lập và hoạt động; 2. Dự thảo điều lệ đối với doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm; dự thảo quy chế tổ chức và hoạt động đối với chi nhánh nước ngoài tại Việt Nam; 3. Phương án hoạt động 05 năm đầu...; 4. Sơ yếu lý lịch, Phiếu lý lịch tư pháp, bản sao các văn bằng, chứng chỉ... của người dự kiến được bổ nhiệm là Chủ tịch Hội đồng quản trị...; 5. Mức vốn góp và phương thức góp vốn, danh sách... và các tài liệu chứng minh việc đáp ứng điều kiện...; 6. Danh sách các chủ sở hữu hưởng lợi...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 69"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_69"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Trong những trường hợp nào thì việc chuyển giao toàn bộ danh mục hợp đồng bảo hiểm giữa các doanh nghiệp bảo hiểm được thực hiện theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Việc chuyển giao toàn bộ danh mục hợp đồng bảo hiểm... được thực hiện trong trường hợp sau đây: 1. Theo yêu cầu của Bộ Tài chính...; 2. Thu hẹp nội dung, phạm vi hoạt động; 3. Chia, tách, sáp nhập, hợp nhất, giải thể, chấm dứt hoạt động; 4. Các trường hợp quy định tại các điểm a, d và e khoản 1 Điều 75 của Luật này.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 91"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_91"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Doanh nghiệp bảo hiểm nhận chuyển giao danh mục hợp đồng bảo hiểm cần đáp ứng những điều kiện gì theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được nhận chuyển giao danh mục hợp đồng bảo hiểm khi đáp ứng các điều kiện sau đây: a) Đang kinh doanh nghiệp vụ bảo hiểm nhận chuyển giao; b) Bảo đảm tỷ lệ an toàn vốn, khả năng thanh toán theo quy định của Luật này; c) Bảo đảm điều kiện triển khai nghiệp vụ bảo hiểm sau khi nhận chuyển giao [8].",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 92"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_92"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Luật Kinh doanh bảo hiểm quy định vốn điều lệ của doanh nghiệp bảo hiểm dưới hình thức công ty cổ phần được xác định như thế nào?",
+    "ground_truth": "Vốn điều lệ là... tổng giá trị mệnh giá cổ phần đã bán hoặc được đăng ký mua khi thành lập công ty cổ phần và được ghi vào điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 94"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_94"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Theo Luật Kinh doanh bảo hiểm, tỷ lệ an toàn vốn của doanh nghiệp bảo hiểm được tính toán dựa trên những yếu tố nào?",
+    "ground_truth": "Tỷ lệ an toàn vốn là tỷ lệ giữa vốn thực có và vốn trên cơ sở rủi ro. Vốn trên cơ sở rủi ro được xác định dựa trên quy mô và lượng hóa tác động của các nhóm rủi ro đến hoạt động kinh doanh của doanh nghiệp bảo hiểm... bao gồm: a) Rủi ro bảo hiểm...; b) Rủi ro thị trường...; c) Rủi ro hoạt động...; d) Rủi ro khác...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 95"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_95"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Luật Kinh doanh bảo hiểm nghiêm cấm doanh nghiệp bảo hiểm thực hiện những hoạt động đầu tư nào?",
+    "ground_truth": "Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam không được phép thực hiện các hoạt động đầu tư sau đây: a) Kinh doanh bất động sản, trừ các trường hợp...; b) Đầu tư kim khí quý, đá quý; c) Đầu tư tài sản cố định vô hình, trừ trường hợp...; d) Đầu tư chứng khoán phái sinh hoặc hợp đồng phái sinh, trừ trường hợp...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 99"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_99"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có những nghĩa vụ gì đối với đại lý bảo hiểm trong quá trình hoạt động?",
+    "ground_truth": "Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài có các nghĩa vụ sau đây đối với đại lý bảo hiểm: a) Tuyển dụng và giao kết hợp đồng đại lý bảo hiểm...; b) Đào tạo và hướng dẫn đại lý bảo hiểm...; c) Cung cấp thông tin, tài liệu liên quan đến sản phẩm bảo hiểm...; i) Bảo đảm và không được cản trở các quyền, lợi ích hợp pháp của đại lý bảo hiểm...; l) Đăng ký và cập nhật thông tin của cá nhân hoạt động đại lý bảo hiểm...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 128"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_128"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Đại lý bảo hiểm có những quyền gì theo Luật Kinh doanh bảo hiểm khi giao kết hợp đồng đại lý?",
+    "ground_truth": "Đại lý bảo hiểm có các quyền sau đây: a) Lựa chọn và giao kết hợp đồng đại lý bảo hiểm...; b) Được cung cấp thông tin và điều kiện cần thiết để thực hiện hợp đồng đại lý bảo hiểm; c) Hưởng hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm và các quyền lợi khác...; d) Yêu cầu doanh nghiệp bảo hiểm... hoàn trả tiền ký quỹ hoặc tài sản thế chấp...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 129"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_129"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Theo Luật Kinh doanh bảo hiểm, một cá nhân muốn thành lập doanh nghiệp môi giới bảo hiểm cần đáp ứng những điều kiện cơ bản nào?",
+    "ground_truth": "Cá nhân thành lập doanh nghiệp môi giới bảo hiểm phải đáp ứng các điều kiện sau đây: a) Có năng lực hành vi dân sự đầy đủ; b) Có trình độ chuyên môn về bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 133"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_133"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Hồ sơ đề nghị cấp giấy phép thành lập và hoạt động của doanh nghiệp môi giới bảo hiểm bao gồm những gì theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Hồ sơ đề nghị cấp giấy phép thành lập và hoạt động bao gồm: a) Văn bản đề nghị cấp giấy phép thành lập và hoạt động; b) Dự thảo điều lệ công ty; c) Phương án hoạt động 05 năm đầu...; d) Sơ yếu lý lịch, Phiếu lý lịch tư pháp, bản sao các văn bằng, chứng chỉ... của người dự kiến được bổ nhiệm là Chủ tịch Hội đồng quản trị...; đ) Mức vốn góp và phương thức góp vốn, danh sách... và các tài liệu chứng minh việc đáp ứng điều kiện...",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 134"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_134"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Bộ Tài chính có quyền hạn gì trong việc thanh tra, kiểm tra hoạt động kinh doanh bảo hiểm theo Luật Kinh doanh bảo hiểm?",
+    "ground_truth": "Khi xét thấy cần thiết, để thực hiện thanh tra chuyên ngành kinh doanh bảo hiểm, cơ quan quy định tại khoản 1 Điều này có quyền thuê tổ chức kiểm toán độc lập, công ty tư vấn hoặc chuyên gia đánh giá, có ý kiến về chuyên môn đối với một số nội dung có dấu hiệu ảnh hưởng tới sự an toàn, lành mạnh của đối tượng thanh tra bao gồm: a) Dự phòng nghiệp vụ; b) Khả năng thanh toán; c) Tái bảo hiểm; d) Đầu tư; đ) Tách nguồn vốn chủ sở hữu và nguồn phí bảo hiểm, phân chia thặng dư; e) Quy tắc, điều khoản, biểu phí bảo hiểm [13].",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 154"
+    ],
+    "question_type": "Contextual",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_154"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Hãy so sánh điều kiện về vốn điều lệ tối thiểu và yêu cầu đối với thành viên góp vốn là tổ chức trong nước và nước ngoài khi thành lập doanh nghiệp bảo hiểm dưới hình thức công ty trách nhiệm hữu hạn theo quy định của pháp luật Việt Nam.",
+    "ground_truth": "Theo quy định tại Luật Kinh doanh bảo hiểm và Nghị định 46, vốn điều lệ tối thiểu để thành lập doanh nghiệp bảo hiểm dưới hình thức công ty trách nhiệm hữu hạn được quy định chi tiết như sau: Luật Kinh doanh bảo hiểm không trực tiếp nêu mức vốn cụ thể mà giao Chính phủ quy định, trong khi Nghị định 46 quy định rõ các mức tối thiểu tùy theo loại hình doanh nghiệp: doanh nghiệp bảo hiểm nhân thọ từ 750–1.300 tỷ đồng, phi nhân thọ từ 400–500 tỷ đồng, bảo hiểm sức khỏe 400 tỷ đồng, và tái bảo hiểm từ 500–1.400 tỷ đồng. Đối với thành viên góp vốn là tổ chức, pháp luật phân biệt giữa tổ chức trong nước và nước ngoài. Tổ chức nước ngoài phải là doanh nghiệp bảo hiểm, tái bảo hiểm hoặc tập đoàn tài chính bảo hiểm có tổng tài sản tối thiểu 2 tỷ USD, kinh nghiệm hoạt động ít nhất 7 năm, và cam kết hỗ trợ tài chính, công nghệ cho doanh nghiệp tại Việt Nam. Trong khi đó, tổ chức trong nước chỉ cần có tổng tài sản tối thiểu 2.000 tỷ đồng. Như vậy, yêu cầu đối với tổ chức nước ngoài nghiêm ngặt hơn nhiều so với tổ chức Việt Nam, đặc biệt về quy mô tài sản và kinh nghiệm hoạt động.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 65",
+      "Điều 94.6",
+      "Nghị định 46",
+      "Điều 35"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_65",
+      "Dieu_94",
+      "ND_46",
+      "Dieu_35"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Phân tích nguyên tắc trung thực tuyệt đối trong hợp đồng bảo hiểm và hậu quả pháp lý khi một trong hai bên vi phạm nghĩa vụ cung cấp thông tin theo quy định của Luật Kinh doanh bảo hiểm.",
+    "ground_truth": "Nguyên tắc trung thực tuyệt đối trong hợp đồng bảo hiểm yêu cầu các bên phải cung cấp thông tin đầy đủ, chính xác và thực hiện quyền, nghĩa vụ một cách trung thực dựa trên sự tin tưởng lẫn nhau. Theo Điều 16.1 Luật Kinh doanh bảo hiểm, đây là nguyên tắc cơ bản trong giao kết và thực hiện hợp đồng. Doanh nghiệp bảo hiểm có nghĩa vụ cung cấp đầy đủ thông tin về hợp đồng và giải thích rõ các điều khoản bảo hiểm, trong khi bên mua bảo hiểm phải khai báo trung thực về đối tượng bảo hiểm. Nếu bên mua bảo hiểm cố ý cung cấp thông tin sai lệch, doanh nghiệp bảo hiểm có quyền hủy hợp đồng, từ chối bồi thường và chỉ hoàn lại phí sau khi trừ chi phí hợp lý. Ngược lại, nếu doanh nghiệp bảo hiểm vi phạm nghĩa vụ cung cấp thông tin, bên mua có quyền hủy hợp đồng và được hoàn trả toàn bộ phí đã đóng, đồng thời doanh nghiệp phải bồi thường thiệt hại phát sinh.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 16",
+      "Điều 22"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_16",
+      "Dieu_22"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Trong bối cảnh Luật Kinh doanh bảo hiểm 2022 có hiệu lực từ ngày 01/01/2023, hãy phân tích các quy định về việc áp dụng Luật này, luật liên quan và tập quán quốc tế đối với hợp đồng bảo hiểm đã được giao kết trước thời điểm đó. Đồng thời, làm rõ khả năng các bên có thể thỏa thuận sửa đổi, bổ sung hợp đồng để đảm bảo phù hợp với quy định mới hay không?",
+    "ground_truth": "Các hợp đồng bảo hiểm đã ký kết trước ngày 01/01/2023 sẽ tiếp tục được thực hiện theo các quy định pháp luật có hiệu lực tại thời điểm giao kết. Tuy nhiên, các bên tham gia hợp đồng có quyền thỏa thuận sửa đổi, bổ sung nội dung hợp đồng để phù hợp với các quy định mới của Luật Kinh doanh bảo hiểm 2022. Đối với hợp đồng có yếu tố nước ngoài, các bên được phép thỏa thuận áp dụng các tập quán quốc tế, nhưng phải đảm bảo không vi phạm các nguyên tắc cơ bản của pháp luật Việt Nam. Quy định này vừa đảm bảo tính ổn định của các hợp đồng đã giao kết, vừa tạo điều kiện để các bên cập nhật hợp đồng theo quy định pháp luật mới khi cần thiết.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 3",
+      "Điều 157"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_3",
+      "Dieu_157"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Hãy phân tích quy trình chuyển giao danh mục hợp đồng bảo hiểm giữa các doanh nghiệp bảo hiểm, bao gồm: (1) các trường hợp được phép chuyển giao theo quy định pháp luật, (2) điều kiện bắt buộc đối với doanh nghiệp bảo hiểm nhận chuyển giao, và (3) quyền lợi pháp lý của bên mua bảo hiểm khi không chấp thuận việc chuyển giao này",
+    "ground_truth": "Quy trình chuyển giao danh mục hợp đồng bảo hiểm giữa các doanh nghiệp bảo hiểm được thực hiện trong các trường hợp cụ thể như theo yêu cầu của Bộ Tài chính, khi thu hẹp phạm vi hoạt động, hoặc trong quá trình chia tách, sáp nhập, giải thể doanh nghiệp. Doanh nghiệp nhận chuyển giao phải đáp ứng các điều kiện bắt buộc bao gồm đang kinh doanh nghiệp vụ bảo hiểm tương ứng, đảm bảo tỷ lệ an toàn vốn, khả năng thanh toán và có đủ điều kiện triển khai nghiệp vụ sau khi nhận chuyển giao. Việc chuyển giao phải đi kèm với chuyển giao tài sản tương ứng với dự phòng nghiệp vụ. Bên mua bảo hiểm có quyền từ chối việc chuyển giao và được quyền đơn phương chấm dứt hợp đồng nếu không đồng ý với việc chuyển giao này.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 91",
+      "Điều 92",
+      "Điều 113",
+      "Điều 75",
+      "Điều 26"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_91",
+      "Dieu_92",
+      "Dieu_113",
+      "Dieu_75",
+      "Dieu_26"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "So sánh quyền và nghĩa vụ cơ bản của bên mua bảo hiểm theo Điều 21 của Luật Kinh doanh bảo hiểm 2022 với các quyền và nghĩa vụ cụ thể của bên mua bảo hiểm hợp đồng bảo hiểm nhân thọ và hợp đồng bảo hiểm sức khỏe được hướng dẫn tại Điều 13 của Thông tư 67, chỉ ra những điểm tương đồng và khác biệt quan trọng?",
+    "ground_truth": "Quyền và nghĩa vụ của bên mua bảo hiểm trong hợp đồng bảo hiểm nhân thọ và sức khỏe được quy định tại cả Luật Kinh doanh bảo hiểm 2022 và Thông tư 67, trong đó Thông tư 67 bổ sung chi tiết cho các trường hợp đặc biệt. Theo quy định chung tại Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có các quyền và nghĩa vụ cơ bản liên quan đến việc đóng phí, cung cấp thông tin và nhận các quyền lợi bảo hiểm. Thông tư 67 cụ thể hóa thêm các quyền và nghĩa vụ đặc thù cho hai loại hợp đồng: bảo hiểm liên kết đầu tư và bảo hiểm hưu trí. Đối với hợp đồng liên kết đầu tư, bên mua bảo hiểm có quyền linh hoạt trong việc đóng phí, rút tiền, chuyển đổi quỹ đầu tư và điều chỉnh các điều khoản hợp đồng. Trong khi đó, hợp đồng bảo hiểm hưu trí cho phép bên mua bảo hiểm thay đổi số tiền bảo hiểm và tạm ngừng đóng phí khi cần thiết. Như vậy, Thông tư 67 không thay thế mà bổ sung và làm rõ hơn các quy định của Luật Kinh doanh bảo hiểm, đặc biệt đối với các sản phẩm bảo hiểm đặc thù.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 21",
+      "Thông tư 67",
+      "Điều 13"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_21",
+      "TT_67",
+      "Dieu_13"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Phân tích các yếu tố mà doanh nghiệp bảo hiểm cần cân nhắc khi cung cấp sản phẩm bảo hiểm trên môi trường mạng, đặc biệt tập trung vào trách nhiệm của doanh nghiệp khi hoạt động cung cấp dịch vụ làm ảnh hưởng đến quyền lợi của bên mua?",
+    "ground_truth": "Khi cung cấp sản phẩm bảo hiểm trên môi trường mạng, doanh nghiệp bảo hiểm cần tuân thủ nghiêm ngặt các quy định pháp lý để đảm bảo quyền lợi của bên mua. Các tổ chức được phép hoạt động bao gồm doanh nghiệp bảo hiểm, chi nhánh nước ngoài, đại lý và môi giới bảo hiểm. Doanh nghiệp có thể lựa chọn thực hiện toàn bộ hoặc một phần quy trình bán hàng trực tuyến, từ tư vấn, giao kết hợp đồng đến thanh toán và phát hành chứng nhận bảo hiểm. Đối với một số sản phẩm đơn giản như bảo hiểm vi mô, sức khỏe ngắn hạn hoặc du lịch, có thể áp dụng toàn bộ quy trình trực tuyến. Tuy nhiên, với các sản phẩm phức tạp hơn, hoạt động tư vấn phải được thực hiện trực tiếp hoặc qua cuộc gọi có ghi âm. Doanh nghiệp phải chịu trách nhiệm hoàn toàn nếu hoạt động trực tuyến ảnh hưởng đến quyền lợi khách hàng, đồng thời đảm bảo tính trung thực, chính xác của thông tin và tuân thủ các yêu cầu về bảo mật, an toàn giao dịch điện tử.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 14",
+      "Điều 22",
+      "Thông tư 67",
+      "Điều 4",
+      "Điều 5"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_14",
+      "Dieu_22",
+      "TT_67",
+      "Dieu_4",
+      "Dieu_5"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Phân tích quy định về vốn của doanh nghiệp môi giới bảo hiểm, làm rõ sự khác biệt về mức vốn điều lệ tối thiểu cho các loại hình kinh doanh môi giới khác nhau (môi giới gốc, tái bảo hiểm) và nghĩa vụ duy trì vốn chủ sở hữu trong suốt quá trình hoạt động?",
+    "ground_truth": "Theo quy định hiện hành, doanh nghiệp môi giới bảo hiểm phải đáp ứng các yêu cầu cụ thể về vốn điều lệ tối thiểu tùy theo loại hình hoạt động. Đối với doanh nghiệp chỉ hoạt động môi giới bảo hiểm gốc hoặc môi giới tái bảo hiểm, mức vốn tối thiểu là 5 tỷ đồng, trong khi doanh nghiệp hoạt động cả hai loại hình phải có vốn tối thiểu 10 tỷ đồng. Các doanh nghiệp phải duy trì nguồn vốn chủ sở hữu trong suốt quá trình hoạt động và thực hiện đánh giá định kỳ hàng quý. Trường hợp không đáp ứng yêu cầu về vốn, doanh nghiệp có thời hạn 3 tháng để thực hiện thủ tục tăng vốn và 6 tháng để hoàn thành việc tăng vốn. Các doanh nghiệp được cấp phép trước năm 2023 có lộ trình đến năm 2028 để điều chỉnh vốn đáp ứng quy định mới. Việc giảm vốn điều lệ chỉ được phép khi vẫn đảm bảo mức tối thiểu theo quy định và vốn chủ sở hữu không thấp hơn mức yêu cầu.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 81",
+      "Điều 68",
+      "Nghị định 73",
+      "Điều 10"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_81",
+      "Dieu_68",
+      "ND_73",
+      "Dieu_10"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "So sánh các loại hình hợp đồng bảo hiểm được quy định với các nghiệp vụ bảo hiểm mà Tập đoàn Bảo Việt đang triển khai được thể hiện trong Báo cáo tài chính hợp nhất quý 3 năm 2024, nhận diện sự tương ứng giữa các loại hợp đồng theo luật định và các dòng doanh thu phí bảo hiểm của Tập đoàn?",
+    "ground_truth": "Luật Kinh doanh bảo hiểm phân loại hợp đồng bảo hiểm thành các loại hình chính gồm nhân thọ, sức khỏe, tài sản, thiệt hại và trách nhiệm. Tuy nhiên, báo cáo tài chính của Tập đoàn Bảo Việt quý 3/2024 không trình bày chi tiết doanh thu phí bảo hiểm theo từng loại hợp đồng này, mà chỉ tổng hợp chung thành các khoản mục phí bảo hiểm gốc, phí nhận tái bảo hiểm và điều chỉnh dự phòng. Dựa trên thuyết minh báo cáo tài chính có thể xác định Tập đoàn hoạt động trên cả hai mảng bảo hiểm nhân thọ và phi nhân thọ, nhưng không có số liệu cụ thể để đối chiếu trực tiếp giữa từng loại hợp đồng theo luật định với doanh thu thực tế. Việc thiếu sự tương ứng chi tiết này khiến không thể phân tích sâu về cơ cấu doanh thu theo từng loại hình bảo hiểm mà chỉ có thể nhận định tổng quan về quy mô hoạt động.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 15",
+      "Báo cáo tài chính",
+      "42"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_15",
+      "Báo_cáo_tài_chính",
+      "42"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Dựa trên Báo cáo tài chính hợp nhất quý 3 năm 2024 và quý 4 năm 2024  của Tập đoàn Bảo Việt, hãy so sánh tình hình doanh thu phí bảo hiểm gốc trong giai đoạn chín tháng đầu năm 2024 so với cùng kỳ năm 2023, và phân tích các yếu tố có thể đã ảnh hưởng đến sự thay đổi này, có tham khảo đến các quy định mới của Luật Kinh doanh bảo hiểm 2022 (nếu có liên quan)?",
+    "ground_truth": "Báo cáo tài chính hợp nhất của Tập đoàn Bảo Việt cho thấy doanh thu phí bảo hiểm gốc trong 9 tháng đầu năm 2024 đạt 31.445 tỷ đồng, tăng nhẹ 78,5 tỷ đồng so với cùng kỳ năm 2023 (31.366 tỷ đồng). Khi phân tích theo từng loại hình, bảo hiểm nhân thọ ghi nhận mức giảm khoảng 229 tỷ đồng (từ 23.906 tỷ xuống 23.677 tỷ), trong khi bảo hiểm phi nhân thọ tăng mạnh 307 tỷ đồng (từ 7.460 tỷ lên 7.768 tỷ). Sự thay đổi này phản ánh xu hướng chuyển dịch trong cơ cấu kinh doanh của tập đoàn, với bảo hiểm phi nhân thọ đang có tốc độ tăng trưởng khả quan bù đắp cho sự sụt giảm nhẹ ở mảng nhân thọ. Tuy nhiên, các tài liệu cung cấp không đề cập đến nguyên nhân cụ thể dẫn đến thay đổi này cũng như tác động của Luật Kinh doanh bảo hiểm 2022 lên kết quả kinh doanh.",
+    "citations": [
+      "Báo cáo tài chính",
+      "42",
+      "64"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Báo_cáo_tài_chính",
+      "42",
+      "64"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Phân tích trách nhiệm của doanh nghiệp bảo hiểm và đại lý bảo hiểm trong quá trình cung cấp sản phẩm bảo hiểm liên kết đầu tư theo quy định, đặc biệt chú trọng đến nghĩa vụ cung cấp thông tin, tư vấn và thu thập thông tin khách hàng?",
+    "ground_truth": "Trong quá trình cung cấp sản phẩm bảo hiểm liên kết đầu tư, đại lý bảo hiểm và doanh nghiệp bảo hiểm có những trách nhiệm rõ ràng về cung cấp thông tin, tư vấn và thu thập thông tin khách hàng. Đại lý bảo hiểm phải cung cấp thông tin đầy đủ, chính xác về sản phẩm bằng tài liệu do doanh nghiệp cung cấp, không tự ý thay đổi nội dung. Đối với sản phẩm liên kết đầu tư, đại lý cần thu thập đầy đủ thông tin khách hàng, tư vấn phù hợp với nhu cầu và khả năng tài chính, giải thích rõ ràng về quyền lợi và rủi ro, đồng thời ghi âm toàn bộ nội dung tư vấn. Đại lý không được đảm bảo kết quả đầu tư hay so sánh hiệu quả giữa các quỹ. Doanh nghiệp bảo hiểm có trách nhiệm đảm bảo tính minh bạch của thông tin sản phẩm, kiểm tra độc lập nội dung tư vấn của đại lý trước khi phát hành hợp đồng, đặc biệt đối với sản phẩm liên kết đầu tư. Doanh nghiệp không được phát hành hợp đồng nếu không có xác nhận tự nguyện của khách hàng hoặc nếu sản phẩm không phù hợp với nhu cầu tài chính của họ. Ngoài ra, doanh nghiệp phải lưu trữ và bảo mật các tài liệu, dữ liệu ghi âm trong thời gian tối thiểu 05 năm để phục vụ cho việc kiểm tra, giám sát khi cần thiết.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 129",
+      "Thông tư 67",
+      "Điều 53",
+      "Điều 30",
+      "Điều 31"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_129",
+      "TT_67",
+      "Dieu_53",
+      "Dieu_30",
+      "Dieu_31"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Hãy làm rõ những nội dung chi của Quỹ và việc dừng trích nộp Quỹ từ ngày 01 tháng 01 năm 2023, cũng như việc xử lý số dư Quỹ theo quy định của Luật Kinh doanh bảo hiểm số 24/2000/QH10?",
+    "ground_truth": "Quỹ bảo vệ người được bảo hiểm được sử dụng cho bốn mục đích chính: (1) Chi trả các khoản tiền bảo hiểm, bồi thường hoặc hoàn phí khi doanh nghiệp bảo hiểm mất khả năng thanh toán hoặc phá sản; (2) Bù đắp thiếu hụt tài sản và dự phòng nghiệp vụ khi chuyển giao hợp đồng; (3) Chi phí quản lý Quỹ; và (4) Chi phí hoạt động của Hội đồng xem xét chi trả. Quỹ chỉ chi trả một lần cho mỗi hồ sơ và áp dụng nguyên tắc bù trừ - chỉ thanh toán phần chênh lệch giữa nghĩa vụ của doanh nghiệp và số tiền người được bảo hiểm thực nhận. Đối với hợp đồng chuyển giao, khoản chi từ Quỹ sẽ được chuyển trực tiếp cho doanh nghiệp nhận chuyển giao. Về việc dừng trích nộp Quỹ từ 01/01/2023, các tài liệu hiện có không đề cập cụ thể. Đối với số dư Quỹ, Luật Kinh doanh bảo hiểm 2000 đã hết hiệu lực từ 01/01/2023 theo Luật mới, trừ một số điều khoản chuyển tiếp. Việc xử lý số dư Quỹ sẽ tuân thủ theo các quy định chuyển tiếp này và hướng dẫn thi hành của Bộ Tài chính.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 156",
+      "Điều 157",
+      "Nghị định 46",
+      "Điều 94",
+      "Điều 95"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_156",
+      "Dieu_157",
+      "ND_46",
+      "Dieu_94",
+      "Dieu_95"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Phân tích mối quan hệ giữa Điều 64 và Điều 65 của Luật Kinh doanh bảo hiểm 2022 về điều kiện chung và điều kiện của thành viên góp vốn thành lập doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm dưới hình thức công ty trách nhiệm hữu hạn, đặc biệt làm rõ các yêu cầu khác nhau đối với tổ chức thành lập theo pháp luật nước ngoài, bao gồm cả quy định về xác nhận không vi phạm pháp luật và cam kết hỗ trợ?",
+    "ground_truth": "Điều 64 Luật Kinh doanh bảo hiểm 2022 quy định điều kiện chung để thành lập doanh nghiệp bảo hiểm, trong khi Điều 65 bổ sung điều kiện riêng cho thành viên góp vốn nước ngoài. Tổ chức nước ngoài phải: (1) là doanh nghiệp bảo hiểm/tập đoàn tài chính-bảo hiểm; (2) không vi phạm pháp luật 3 năm gần nhất; (3) có 7 năm kinh nghiệm trong lĩnh vực liên quan; (4) tổng tài sản ≥ 2 tỷ USD; (5) cam kết hỗ trợ tài chính, công nghệ cho doanh nghiệp tại Việt Nam.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 64",
+      "Điều 65"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_64",
+      "Dieu_65"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Phân tích mối tương quan giữa nghĩa vụ bảo mật thông tin của doanh nghiệp bảo hiểm theo điểm và quy định về Cơ sở dữ liệu về hoạt động kinh doanh bảo hiểm, làm rõ những trường hợp ngoại lệ doanh nghiệp được phép cung cấp thông tin và trách nhiệm cập nhật thông tin vào cơ sở dữ liệu?",
+    "ground_truth": "Luật Kinh doanh bảo hiểm và các văn bản hướng dẫn thiết lập mối quan hệ chặt chẽ giữa nghĩa vụ bảo mật thông tin của doanh nghiệp bảo hiểm và Cơ sở dữ liệu quốc gia về hoạt động kinh doanh bảo hiểm. Doanh nghiệp bảo hiểm phải bảo mật thông tin khách hàng theo quy định về bí mật cá nhân, kinh doanh, đồng thời có nghĩa vụ cung cấp thông tin cần thiết cho Cơ sở dữ liệu do Bộ Tài chính quản lý. Việc thu thập và sử dụng thông tin phải tuân thủ nguyên tắc: chỉ sử dụng đúng mục đích, không tiết lộ cho bên thứ ba nếu không được đồng ý, trừ trường hợp pháp luật yêu cầu. Các quy định này đảm bảo cân bằng giữa yêu cầu minh bạch trong quản lý nhà nước và bảo vệ quyền riêng tư của khách hàng.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 11",
+      "Thông tư 67",
+      "Điều 3",
+      "Nghị định 46",
+      "Điều 6",
+      "Điều 7"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_11",
+      "TT_67",
+      "Dieu_3",
+      "ND_46",
+      "Dieu_6",
+      "Dieu_7"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Phân tích quy định về việc thay đổi mức độ rủi ro được bảo hiểm tại Điều 23 của Luật Kinh doanh bảo hiểm 2022, làm rõ quyền và nghĩa vụ của cả bên mua bảo hiểm và doanh nghiệp bảo hiểm khi có sự thay đổi yếu tố làm cơ sở tính phí bảo hiểm dẫn đến tăng hoặc giảm rủi ro, và hậu quả pháp lý nếu không đạt được thỏa thuận?",
+    "ground_truth": "Điều 23 Luật Kinh doanh bảo hiểm 2022 quy định cơ chế điều chỉnh hợp đồng khi mức độ rủi ro thay đổi. Khi rủi ro giảm, bên mua bảo hiểm có quyền yêu cầu: giảm phí, tăng số tiền/kéo dài thời hạn/mở rộng phạm vi bảo hiểm. Nếu doanh nghiệp từ chối, bên mua được quyền đơn phương chấm dứt hợp đồng. Ngược lại, khi rủi ro tăng, doanh nghiệp bảo hiểm có quyền: tăng phí, giảm số tiền/rút ngắn thời hạn/thu hẹp phạm vi bảo hiểm. Nếu bên mua không đồng ý, doanh nghiệp được quyền đơn phương chấm dứt hợp đồng. Cả hai trường hợp đều yêu cầu thông báo bằng văn bản trước khi chấm dứt hợp đồng.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 23"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_23"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "So sánh các quy định về điều kiện để được cấp Giấy phép thành lập và hoạt động của doanh nghiệp bảo hiểm với hồ sơ đề nghị cấp Giấy phép được quy định, làm rõ sự khác biệt giữa hồ sơ cho công ty trách nhiệm hữu hạn và công ty cổ phần, đặc biệt chú trọng đến các tài liệu chứng minh năng lực tài chính và uy tín của các tổ chức, cá nhân sáng lập?",
+    "ground_truth": "Hồ sơ cấp phép cho doanh nghiệp bảo hiểm dạng TNHH và CTCP có nhiều điểm tương đồng nhưng khác biệt chủ yếu ở yêu cầu về cổ đông/thành viên góp vốn. Cả hai đều cần đơn đề nghị, dự thảo điều lệ, phương án hoạt động 5 năm, hồ sơ nhân sự chủ chốt và xác nhận vốn phong tỏa. Điểm khác biệt chính: (1) Công ty TNHH chỉ chấp nhận thành viên là tổ chức, yêu cầu báo cáo tài chính 3 năm và cam kết hỗ trợ từ tổ chức mẹ; (2) Công ty CP chấp nhận cả cá nhân và tổ chức góp vốn, yêu cầu hồ sơ đơn giản hơn với cổ đông góp dưới 10% vốn, chỉ cần báo cáo tài chính năm gần nhất.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 65",
+      "Nghị định 46",
+      "Điều 12",
+      "Điều 13"
+    ],
+    "question_type": "Complex Reasoning",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_65",
+      "ND_46",
+      "Dieu_12",
+      "Dieu_13"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Dieu 8 cua Thong tu 67",
+    "ground_truth": "Điều 8 Thông tư 67 quy định trách nhiệm của các tổ chức kinh doanh bảo hiểm khi cung cấp dịch vụ trên môi trường mạng, bao gồm: (1) Thông báo cho Bộ Tài chính các thông tin theo quy định; (2) Lập và gửi báo cáo định kỳ theo mẫu quy định (bao gồm báo cáo hoạt động, số lượng hợp đồng, doanh thu và bồi thường); (3) Công khai thông tin về sản phẩm, quy trình cung cấp dịch vụ và chính sách bảo mật trên website; (4) Đảm bảo hạ tầng kỹ thuật và nhân sự đáp ứng yêu cầu; (5) Tuân thủ pháp luật về kinh doanh bảo hiểm và giao dịch điện tử. Doanh nghiệp cũng phải chịu trách nhiệm quản lý hoạt động của đại lý trên môi trường mạng, cung cấp thông tin khi cơ quan có thẩm quyền yêu cầu, và đảm bảo các điều kiện khi thuê hạ tầng kỹ thuật từ bên thứ ba.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 8"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_8"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Dieu 6 cua Thong tu 50",
+    "ground_truth": "Hợp đồng bảo hiểm chấm dứt trong hai trường hợp chính: (1) Khi có thỏa thuận về việc chấm dứt do tạm dừng hoặc chấm dứt hợp đồng xây dựng (bên mua phải thông báo bằng văn bản trong 5 ngày làm việc kể từ quyết định của chủ đầu tư); (2) Các trường hợp khác theo quy định pháp luật. Về hậu quả pháp lý: (a) Trường hợp chấm dứt do tạm dừng/chấm dứt hợp đồng xây dựng, doanh nghiệp bảo hiểm phải hoàn lại phí tương ứng thời gian còn lại (trừ chi phí hợp lý) trong 15 ngày, hoặc yêu cầu bên mua đóng bổ sung nếu chưa đủ phí; (b) Các trường hợp chấm dứt khác áp dụng theo thỏa thuận hợp đồng và quy định pháp luật.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 6"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_6"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Dieu 2 cua Thong tu 67",
+    "ground_truth": "Thông tư 67/2023/TT-BTC quy định đối tượng áp dụng bao gồm: (1) Các doanh nghiệp bảo hiểm (phi nhân thọ, nhân thọ, sức khỏe, tái bảo hiểm); (2) Đại lý và môi giới bảo hiểm; (3) Tổ chức cung cấp dịch vụ phụ trợ và bảo hiểm vi mô; (4) Chi nhánh/văn phòng đại diện của doanh nghiệp nước ngoài tại Việt Nam; (5) Các bên tham gia hợp đồng bảo hiểm (bên mua, người được bảo hiểm, người thụ hưởng); (6) Cơ quan quản lý nhà nước; (7) Các tổ chức, cá nhân có liên quan đến hoạt động kinh doanh bảo hiểm.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 2"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_2"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Dieu 9 va 10 cua Thong tu 50",
+    "ground_truth": "Điều 9 Thông tư 50/2022/TT-BTC quy định thời hạn bảo hiểm bắt buộc công trình xây dựng gồm 2 trường hợp: (1) Đối với công trình tại điểm a khoản 1 Điều 10: thời hạn bảo hiểm theo hợp đồng từ ngày bắt đầu đến ngày kết thúc xây dựng (căn cứ quyết định đầu tư), chấm dứt khi bộ phận công trình được bàn giao/sử dụng; (2) Đối với công trình tại điểm b khoản 1 Điều 10: thời hạn bảo hiểm kéo dài tới khi bàn giao hoặc sau chạy thử có tải (không quá 28 ngày từ ngày chạy thử), riêng thiết bị đã qua sử dụng chấm dứt khi bắt đầu chạy thử.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 9",
+      "Điều 10"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_9",
+      "Dieu_10"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Dieu 7 cua Thong tu 67",
+    "ground_truth": "Điều 7 Thông tư 67/2023/TT-BTC quy định các yêu cầu về dịch vụ, kỹ thuật, bảo mật và lưu trữ dữ liệu khi cung cấp dịch vụ bảo hiểm trên môi trường mạng, bao gồm 6 nội dung chính: (1) Xây dựng quy chế hoạt động chi tiết về quy trình giao dịch, kiểm soát rủi ro, bảo mật thông tin và giải quyết tranh chấp; (2) Đảm bảo nguyên tắc công khai, minh bạch trong cung cấp dịch vụ; (3) Đăng tải thông tin ứng dụng trên trang web chính thức với tên miền đã đăng ký; (4) Tuân thủ quy định xác thực theo luật giao dịch điện tử; (5) Quy định rõ trong hợp đồng bảo hiểm về hình thức giao dịch trực tuyến, rủi ro và trách nhiệm các bên (áp dụng từ 01/01/2024); (6) Tuân thủ nghiêm ngặt các quy định về lưu trữ dữ liệu và an toàn hệ thống thông tin theo cấp độ được xác định.",
+    "citations": [
+      "Thông tư 67",
+      "Điều 7"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_67",
+      "Dieu_7"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Dieu 4 cua Thong tu 50",
+    "ground_truth": "Điều 4 Thông tư 50/2022/TT-BTC quy định về Giấy chứng nhận bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng, gồm 3 nội dung chính: (1) Giấy chứng nhận là bằng chứng giao kết hợp đồng bảo hiểm bắt buộc; (2) Doanh nghiệp bảo hiểm phải cấp riêng từng Giấy chứng nhận với đầy đủ thông tin bắt buộc (thông tin các bên, công trình, số tiền bảo hiểm, thời hạn, phí bảo hiểm...); (3) Đối với Giấy chứng nhận điện tử phải tuân thủ Luật Giao dịch điện tử và bao gồm đầy đủ nội dung như bản giấy.",
+    "citations": [
+      "Thông tư 50",
+      "Điều 4"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "TT_50",
+      "Dieu_4"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Dieu 90 cua Nghi Dinh 46",
+    "ground_truth": "Điều 90 Nghị định 46/2023/NĐ-CP quy định trách nhiệm của các tổ chức cung cấp dịch vụ bảo hiểm qua biên giới tại Việt Nam gồm: (1) Lưu trữ đầy đủ hồ sơ chứng minh đủ điều kiện hoạt động và xuất trình khi cơ quan chức năng yêu cầu; (2) Báo cáo định kỳ hàng quý cho Bộ Tài chính về hoạt động cung cấp dịch vụ xuyên biên giới; (3) Chỉ được hợp tác với các đối tác nước ngoài đáp ứng đủ điều kiện theo quy định pháp luật khi cung cấp dịch vụ phụ trợ bảo hiểm qua biên giới.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 90"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_90"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Dieu 90 Luat kinh doanh bao hiem",
+    "ground_truth": "Điều 90 Luật Kinh doanh bảo hiểm quy định về hoạt động thuê ngoài của doanh nghiệp bảo hiểm với 3 nội dung chính: (1) Khái niệm hoạt động thuê ngoài và danh mục các hoạt động cấm thuê ngoài (bao gồm kiểm soát nội bộ, kiểm toán, quản trị rủi ro và các hoạt động trực tiếp liên quan đến khách hàng); (2) Trách nhiệm của doanh nghiệp khi thuê ngoài (xây dựng quy chế quản lý, thiết lập quy trình quản trị rủi ro, có phương án dự phòng, đảm bảo bảo mật dữ liệu); (3) Yêu cầu về nội dung hợp đồng thuê ngoài. Doanh nghiệp phải chịu trách nhiệm cuối cùng trước khách hàng dù có thuê ngoài dịch vụ.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 90"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_90"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Dieu 121 Luat kinh doanh bao hiem",
+    "ground_truth": "Điều 121 Luật Kinh doanh bảo hiểm quy định trách nhiệm chung của các bên (doanh nghiệp bảo hiểm, chi nhánh nước ngoài, bên mua bảo hiểm, người được bảo hiểm và các bên liên quan) trong việc: (1) Đề phòng rủi ro; (2) Hạn chế tổn thất; (3) Phòng chống gian lận bảo hiểm. Quy định này nhấn mạnh nghĩa vụ hợp tác của tất cả các bên tham gia hợp đồng bảo hiểm để đảm bảo tính minh bạch và hiệu quả của hoạt động bảo hiểm.",
+    "citations": [
+      "Luật Kinh doanh bảo hiểm",
+      "Điều 121"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "Luật_Kinh_doanh_bảo_hiểm",
+      "Dieu_121"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Dieu 121 cua Nghi Dinh 46",
+    "ground_truth": "Điều 121 Nghị định 46/2023/NĐ-CP quy định về cơ chế tạm đóng tài khoản bảo hiểm hưu trí với 3 nội dung chính: (1) Cho phép bên mua bảo hiểm và doanh nghiệp thỏa thuận tạm dừng đóng phí khi không có khả năng tài chính; (2) Trong thời gian tạm đóng, giá trị tài khoản vẫn được tích lũy theo tỷ suất đầu tư công bố nhưng doanh nghiệp không được thu phí quản lý; (3) Doanh nghiệp chỉ có nghĩa vụ chi trả trong hai trường hợp: chi trả hưu trí định kỳ khi đủ tuổi hoặc chi trả toàn bộ giá trị tài khoản khi người được bảo hiểm tử vong/thương tật toàn bộ vĩnh viễn.",
+    "citations": [
+      "Nghị định 46",
+      "Điều 121"
+    ],
+    "question_type": "Edge Case",
+    "relevant_docs": [
+      "ND_46",
+      "Dieu_121"
+    ]
+  }
+]
