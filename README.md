@@ -11,21 +11,17 @@
    - In the root directory, create a file named `env.local`
    - Add the following environment variables with your Qdrant database API details:
 
-Qdrant Vector Database Configuration
+> Qdrant Vector Database Configuration
 
 QDRANT_URL=https://<your-qdrant-url>.aws.cloud.qdrant.io:6333
-QDRANT_API_KEY=<your-qdrant-api-key>
-QDRANT_COLLECTION=full_rag_legal_docs
+QDRANT_API_KEY="your-qdrant-api-key"
+QDRANT_COLLECTION="collection-name"
 
-Google Gemini API Configuration
+> Google Gemini API Configuration
 
-GEMINI_API_KEY=<your-gemini-api-key>
+GEMINI_API_KEY="your-gemini-api-key"
 
-Collection Name
-
-COLLECTION_NAME=full_rag_legal_docs
-
-Optional: Model Configuration
+> Optional: Model Configuration
 
 MODEL_NAME=gemini-2.0-flash
 EMBEDDING_MODEL=dangvantuan/vietnamese-embedding
