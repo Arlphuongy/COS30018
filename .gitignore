@@ -1,0 +1,4 @@
+echo "cache/" >> .gitignore
+echo "*.safetensors" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
